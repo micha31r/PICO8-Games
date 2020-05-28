@@ -4,4 +4,4 @@ Made in 2019
 
 ##
 
-[Itch Io](https://pixbits.itch.io/)
+[Itch io](https://pixbits.itch.io/)
